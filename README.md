@@ -4,11 +4,11 @@ This repo is to demonstrate how a Health Care facility can manage patient detail
 
 **1)** Fire up your favourite console & clone this repo somewhere:
 
-__`❍ git clone https://github.com/vahiwe/Uptime-Verification-Oraclize.git`__
+__`❍ git clone https://github.com/vahiwe/HealthCare.git`__
 
-**2)** Enter this directory & install dependencies:
+**2)** Enter this directory:
 
-__`❍ cd Uptime-Verification-Oraclize && npm install`__
+__`❍ cd HealthCare`__
 
 **3)** Install npx if not already installed:
 
